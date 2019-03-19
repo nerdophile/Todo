@@ -1,0 +1,14 @@
+.btnxs {
+	padding: .25rem .4rem;
+	font-size: .875rem;
+	line-height: .5;
+	border-radius: .2rem;
+}
+
+.is-complete {
+	text-decoration: line-through
+}
+
+.backgroundColor {
+	background-color: lemonchiffon
+}
